@@ -490,6 +490,7 @@ ol {
 	background-image: url(../img/resume-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+	opacity: 0.2;
 }
 
 .resume-list {
