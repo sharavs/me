@@ -490,7 +490,8 @@ ol {
 	background-image: url(../img/resume-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	opacity: 0.2;
+	background-color: rgba(238, 238, 238, 0.81);
+	background-blend-mode: color;
 }
 
 .resume-list {
