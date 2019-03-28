@@ -474,14 +474,14 @@ ol {
 
 .social-section .social-link-warp:after {
 	position: absolute;
-	content: '';
-	width: 50%;
-	height: 2px;
-	left: 23%;
-	top: 50%;
-	margin-top: 1px;
-	background: #cbcbcb;
-}
+	    content: '';
+	    width: 60%;
+	    height: 2px;
+	    left: 25%;
+	    top: 50%;
+	    margin-top: 1px;
+	    background: #cbcbcb;
+	}
 
 /*---------------------
 	Resume section
